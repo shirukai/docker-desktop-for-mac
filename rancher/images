@@ -1,2 +1,2 @@
-quay.io/jetstack/cert-manager-controller=registry.cn-beijing.aliyuncs.com/quayio/cert-manager-controller
-quay.io/jetstack/cert-manager-ingress-shim=registry.cn-beijing.aliyuncs.com/quayio/cert-manager-ingress-shim
+quay.io/jetstack/cert-manager-controller:v0.2.3=registry.cn-beijing.aliyuncs.com/quayio/cert-manager-controller:v0.2.3
+quay.io/jetstack/cert-manager-ingress-shim:v0.2.3=registry.cn-beijing.aliyuncs.com/quayio/cert-manager-ingress-shim:v0.2.3
